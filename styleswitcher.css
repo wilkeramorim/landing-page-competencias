@@ -1,0 +1,28 @@
+/* Template: FlatBook | Author: eriktailor | Version: 1.0 */
+/*--------------------------------------------------------*/
+
+/*------------------------------------------------------*/
+/*	# Style Switcher Panel */
+/*------------------------------------------------------*/
+
+#style-switcher {height: 200px;left: -130px; padding: 0; position: fixed; top: 50%; width: 100px; z-index: 99998;}
+#style-switcher h2 {height: 40px; background: rgba(0, 0, 0, 0.8); font-family: 'Open Sans', sans-serif; font-size: 13px; width: 100%; font-weight: bold; line-height: 40px; color: #fff; padding: 0 10px 0 20px; margin: 0; text-align: left; text-transform: none;}
+#style-switcher i {color: #C7C7C7; display: table; font-size: 18px; line-height: 40px; margin: 0 auto; transition: all 1.3s ease-in-out; cursor: pointer;}
+#style-switcher-tab {position: absolute; cursor: pointer; top: 0;  left: 130px; height: 40px; width: 40px; background: rgba(0, 0, 0, 0.8);}
+#style-switcher-content {float:left; padding: 10px 20px 20px 20px; background: rgba(0, 0, 0, 0.8);}
+.colors li, .patterns li {float: left; margin: 2px;}
+.colors li a, .patterns li a {width: 25px; height: 25px; display: block; cursor: pointer;}
+
+/*------------------------------------------------------*/
+/*	# Color Schemes */
+/*------------------------------------------------------*/
+
+.colors .green {background: #3fbe73;}
+.colors .lime {background: #9CCC3E;}
+.colors .orange {background: #d35400;}
+.colors .royal_blue {background: #507eb3;}
+.colors .salmon {background: #d26a69;}
+.colors .sky_blue {background: #8bdef3;}
+.colors .turquise {background: #5bc1af;}
+.colors .violet {background: #b372c4;}
+.colors .yellow {background: #e8a230;}
