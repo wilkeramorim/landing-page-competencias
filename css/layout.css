@@ -354,7 +354,7 @@ p a,p a:visited {
 #features {
     width: 100%;
     height: 200px;
-    background: #ececec;
+    background: #dddddd;
 	margin:50px 0;
 }
 
@@ -377,10 +377,10 @@ p a,p a:visited {
 }
 
 .client-movile{background-position: 0 0;}
-.client-brmalls{background-position: -182px 0; width: 200px}
+.client-casaevideo{background-position: -152px 0; width: 225px}
 .client-mdl{background-position: -440px 0; width: 130px;}
-.client-renner{background-position: -635px 0; width: 170px;}
-.client-tecnisa {background-position: -854px 0; width: 160px;}
+.client-engeform{background-position: -643px 0; width: 170px;}
+.client-rep {background-position: -860px 0; width: 145px;}
 
 .feature h2 {
     font-size: 0;

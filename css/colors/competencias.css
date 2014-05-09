@@ -4,37 +4,37 @@
 /*--------------------------------------------------------*/
 /* # LIME COLOR SKIN */
 /*--------------------------------------------------------*/
-p a, p a:visited {color: #8dbb32;}
+p a, p a:visited {color: #0e76bc;}
 
-h2 {color: #8dbb32;}
+h2 {color: #0e76bc;}
 
-.menu li a:hover {color: #8dbb32;}
+.menu li a:hover {color: #0e76bc;}
 
-.btn {background: #ff7214;}
+.btn {background: #f26507;}
 
-.btn:hover {background: #ff9900;}
+.btn:hover {background: #f28607;}
 
-.btn.grey {color: #8dbb32;}
+.btn.grey {color: #0e76bc;}
 
-.btn.grey:hover {color: #8dbb32;}
+.btn.grey:hover {color: #0e76bc;}
 
-.section-title {color: #8dbb32;}
+.section-title {color: #0e76bc;}
 
-.section-title-bullet {background: #8dbb32;}
+.section-title-bullet {background: #00adee;}
 
-#header {background: #8dbb32;}
+#header {background: #0e76bc;}
 
-.feature h2 {color: #8dbb32;}
+.feature h2 {color: #0e76bc;}
 
-.price-table h3 {background: #8dbb32;}
+.price-table h3 {background: #0e76bc;}
 
-.contact-bar {background: #8dbb32;}
+.contact-bar {background: #0e76bc;}
 
-.social-icons i {color: #8dbb32;}
+.social-icons i {color: #0e76bc;}
 
-.social-icons i:hover {color: #8dbb32;}
+.social-icons i:hover {color: #0e76bc;}
 
-.slimScrollBar {background: #8dbb32 !important;}
+.slimScrollBar {background: #0e76bc !important;}
 
 .tablet-mockup-bg {background-color: #7C9F38 !important;}
 
