@@ -13,7 +13,7 @@
 	
 	$MailChimp = new \drewm\MailChimp('8400dfbc1c91bc97d6b37a6a806150df-us8');
 	$result = $MailChimp->call('lists/subscribe', array(
-					'id'                => '13f1fa9e8c',
+					'id'                => '125ac9df78',
 					'email'             => array('email'=> $email),
 					'merge_vars'        => array('FNAME'=>$fname, 'LNAME'=>$lname, 'PHONE'=>$fone),
 					'double_optin'      => false,
